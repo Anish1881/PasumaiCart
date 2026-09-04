@@ -1,0 +1,27 @@
+# React
+grocery-frontend/node_modules/
+grocery-frontend/dist/
+grocery-frontend/.env
+grocery-frontend/.env.*
+
+# Spring Boot
+grocery-backend/target/
+grocery-backend/.env
+grocery-backend/.env.*
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.idea/
+*.iml
+.vscode/*
+!.vscode/settings.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
